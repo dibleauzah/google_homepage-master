@@ -1,0 +1,45 @@
+/**Global Styles **/
+*{
+    padding: 0,
+    margin: 0,
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+}
+/** Header **/
+.top-menu{
+    justify-content:space-between;
+}
+
+.nav-links-container{
+    justify-content: space-between;
+}
+.nav-links{
+    list-style: none;
+    padding: 10px;
+}
+.dot-menu-row{
+    width: 30px;
+}
+.dot-menu-item{
+    background-color:black;
+    padding:4px;
+    margin:2px;
+}
+
+/* 
+.top-menu{
+    justify-content: space-between;
+}
+
+.flex{
+    display: flex;
+}
+
+.nav-links-container{
+list-style: none;
+}
+
+ */
